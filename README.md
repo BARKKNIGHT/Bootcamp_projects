@@ -13,9 +13,20 @@ Data Science projects
 
 ## Course work notebooks -
 
-1. 25_06_2025.ipynb -> Heart dataset <br>
+1. Grid_Search.ipynb -> Randomly generated dataset using make_classification() <br>
+    ```grid_search = GridSearchCV(
+        dt,
+        param_grid,
+        scoring = 'accuracy',
+        verbose = 1,
+        n_jobs = 8,
+        return_train_score = True
+    )```
+
+2.
+
+3. 25_06_2025.ipynb -> Heart dataset <br>
     Cross-Validation with Multiple Models
 	1. Use Logistic Regression, Random Forest, K-Nearest Neighbors and SVM.
 	2. Perform 10-fold cross-validation on all three.
 	3. Create a bar chart showing average accuracy of each model.
-
