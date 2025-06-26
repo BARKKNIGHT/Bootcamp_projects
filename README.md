@@ -18,3 +18,4 @@ Data Science projects
 	1. Use Logistic Regression, Random Forest, K-Nearest Neighbors and SVM.
 	2. Perform 10-fold cross-validation on all three.
 	3. Create a bar chart showing average accuracy of each model.
+
