@@ -25,7 +25,11 @@ Data Science projects
     )
     ```
 
-2.
+2. K_Fold_Analysis.ipynb -> load_iris dataset from sklearn.datasets <br>
+    Compare Different K Values
+	1. Run cross-validation with K = 3, 5, 10
+    2. Plot the accuracy scores for each K.
+    3. Comment on performance and runtime.
 
 3. 25_06_2025.ipynb -> Heart dataset <br>
     Cross-Validation with Multiple Models
