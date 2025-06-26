@@ -13,7 +13,7 @@ Data Science projects
 
 ## Course work notebooks -
 
-1. 25_06_2025.ipynb -> Heart dataset 
+1. 25_06_2025.ipynb -> Heart dataset <br>
     Cross-Validation with Multiple Models
 	1. Use Logistic Regression, Random Forest, K-Nearest Neighbors and SVM.
 	2. Perform 10-fold cross-validation on all three.
