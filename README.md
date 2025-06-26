@@ -14,14 +14,16 @@ Data Science projects
 ## Course work notebooks -
 
 1. Grid_Search.ipynb -> Randomly generated dataset using make_classification() <br>
-    ```grid_search = GridSearchCV(
+    ```
+    grid_search = GridSearchCV(
         dt,
         param_grid,
         scoring = 'accuracy',
         verbose = 1,
         n_jobs = 8,
         return_train_score = True
-    )```
+    )
+    ```
 
 2.
 
