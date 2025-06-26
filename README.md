@@ -26,13 +26,13 @@ Data Science projects
     ```
 
 2. K_Fold_Analysis.ipynb -> load_iris dataset from sklearn.datasets <br>
-    Compare Different K Values
+    Compare Different K Values -
 	1. Run cross-validation with K = 3, 5, 10
     2. Plot the accuracy scores for each K.
     3. Comment on performance and runtime.
 
 3. 25_06_2025.ipynb -> Heart dataset <br>
-    Cross-Validation with Multiple Models
+    Cross-Validation with Multiple Models -
 	1. Use Logistic Regression, Random Forest, K-Nearest Neighbors and SVM.
 	2. Perform 10-fold cross-validation on all three.
 	3. Create a bar chart showing average accuracy of each model.
